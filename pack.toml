@@ -1,0 +1,13 @@
+name = "TFL Cogs N Worlds"
+author = "Liz. C"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a7ec1d9e4aaf8034b052c0fc5adb2fd6dc0cc033833a4d7583267c747896317c"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.20.1"
