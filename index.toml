@@ -76,11 +76,6 @@ hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
 metafile = true
 
 [[files]]
-file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "f53c28cef1fdbb538057291c80236894fc6b5c4dcfdb15ec94fc55c5a59aba53"
-metafile = true
-
-[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
 metafile = true
@@ -178,11 +173,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/ccc.pw.toml"
 hash = "a864f90ec46c0f6dcd94b19d214d02b8605b00dfa568f36d2d5a08d819d6c9ff"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-new-age-retexture.pw.toml"
-hash = "c6f1655ee01d038106907efcaaa0747654c2f1452ea644127fb198ce5c1705fb"
 metafile = true
 
 [[files]]
