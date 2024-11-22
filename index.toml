@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "77fa60afe266039f8577c093a1abeee3155acbcdb22bf5ae14bcf522d15b321d"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "9914bde062520ddd8df017d86a882b0d6e3131d7cfc8ced41a2f55e1d09ad9cf"
 metafile = true
 
 [[files]]
@@ -13,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "bf81b9c57206623194310c4ea416dc82e981af90954d67c1e8f09f1ed98d78a9"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "60cecb26aee1b43672d7a9ffdea70c2c0cbb283abe019df50e8bb64c0992b301"
 metafile = true
 
 [[files]]
@@ -46,6 +61,11 @@ hash = "bde223e6112180c23f9dec1c9a8d3cda74868b7d739ddf3436933502edb4c05a"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-creatures.pw.toml"
+hash = "c8160de018f0e5866c6888a8e7d08acd9f19ef3e7aec56c76596207aa6c88033"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "6815e72b12db4109693a071bcf3a71a3cc1419ae2b6e85e6750e0fb46fd72482"
 metafile = true
@@ -73,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "3724dce52a84e5e9ec5e389707fb7fd2fdf29339bf49e87cabacd52cb17641bf"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "f39db66d66abb140eb3a1b0c503455173948c5f5561033d08d85e6804945f6f6"
 metafile = true
 
 [[files]]
@@ -121,6 +146,21 @@ hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "419bfd63bc351527f11cb16f22734f1c6419e7c511fb2597e6bdebc4c9beda59"
+metafile = true
+
+[[files]]
+file = "mods/delightful-chefs.pw.toml"
+hash = "b1c280ad0301b471abd02441abb52153020b3405bda7d6654f53f8828f8f9e28"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "03f632e9f51e58ce8b8ce7c5b28166e251e1cdbc743f404f65712fd46dd0f251"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
 metafile = true
@@ -141,6 +181,11 @@ hash = "d7650fa1a4c14276d76f0767d8825444a176349ac3ae2ae0e0ce96faf9e447ff"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c169e427c31fb1a75e3b59681c5a42504859b6dc0cedf226868c28515f5bfe81"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f8a4d471df41f633cdf26f291cf0627e6b661026bc488093ffe1d515d8494202"
 metafile = true
@@ -152,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5423610b1c9d9d5c74e019ce468e22eb57732e10482e08a5bdb74ac3d89a3cd2"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
@@ -161,8 +206,23 @@ hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "bb2bb541b9a8dabf1fe8e509adb2fb501ecf484f23e63812631debc0fb96187e"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/frights-delight.pw.toml"
+hash = "ced511101558c093427d459bbb453ee8e7ccf973f50b73f912f457a4b5eabdba"
 metafile = true
 
 [[files]]
@@ -216,6 +276,11 @@ hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "ad255087fcf470074a5e444d7294fbe083aef88ec57336d34abf9b7714d1eb1c"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "c114cf3e528339675168be824fc56a8d79fc61772b66c33e6446c2b78b135571"
 metafile = true
@@ -233,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "501935c3bb6ef85b78bdba31dcc4fc55546da0b62ae06c50c8f47e6afb1caf79"
+metafile = true
+
+[[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "df33cf433b05d1a409bb912befd8f19f220e33d80fa9c5eda66ded335f625717"
 metafile = true
 
 [[files]]

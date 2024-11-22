@@ -1,0 +1,13 @@
+name = "My Nether's Delight Refabricated"
+filename = "MyNethersDelight-1.20.1-0.1.0.1+0.1.7.5.refabricated.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uIOfYdnw/versions/G4IExxQ4/MyNethersDelight-1.20.1-0.1.0.1%2B0.1.7.5.refabricated.jar"
+hash-format = "sha512"
+hash = "26866a8175d05b178741a7f6d8027b1e129791896a79b13ea7be0d055a0161167433ae8b651cbbb8f3707b33a91c331a64aff399ddb1f3112263eb095bb0d3db"
+
+[update]
+[update.modrinth]
+mod-id = "uIOfYdnw"
+version = "G4IExxQ4"
