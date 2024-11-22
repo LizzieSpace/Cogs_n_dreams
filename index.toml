@@ -11,6 +11,11 @@ hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "9914bde062520ddd8df017d86a882b0d6e3131d7cfc8ced41a2f55e1d09ad9cf"
 metafile = true
@@ -141,6 +146,16 @@ hash = "acba8435d3075b06c631ed8a121a4f5a47f64ae18559bdcf9cf637df3d0bab41"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "8d6dee172f0c0565b2b34138f4a957e3a6fbf65891c6144c5eb3d3c0667b5aa4"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
 metafile = true
@@ -178,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "d7650fa1a4c14276d76f0767d8825444a176349ac3ae2ae0e0ce96faf9e447ff"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "fab5d7420de7216e160ad3c2ce7b3c06ae3008ddb432b564579d43a7f9130075"
 metafile = true
 
 [[files]]
@@ -228,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "ca24bfcd5025839184bf79d63151d9cdafd5c4668a2c6fa3c034fca488e9bb7e"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
 metafile = true
 
 [[files]]
@@ -286,6 +311,21 @@ hash = "c114cf3e528339675168be824fc56a8d79fc61772b66c33e6446c2b78b135571"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "bc01e49e5a2d8d32f25c29d63f32bac189ea645a54c40ffc85e6db54cc3806b2"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "389c2886169e746c9465c204d360276ee4a5651939e2028816d2f4ca484b9702"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
@@ -308,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
