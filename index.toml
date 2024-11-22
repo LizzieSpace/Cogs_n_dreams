@@ -21,6 +21,11 @@ hash = "9914bde062520ddd8df017d86a882b0d6e3131d7cfc8ced41a2f55e1d09ad9cf"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "23acea5043b043f4307ee1ce9d3738340ee72e5d3915322d7cee40403265f41b"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "f6d6aede15dae8493cd4a366c36c52b3066cd0248b8234116b60f30be4e9546b"
 metafile = true
@@ -46,6 +51,11 @@ hash = "e8439b94298b1f4685dec557a8009fb085b508c3a6d0dc179603095be392b680"
 metafile = true
 
 [[files]]
+file = "mods/clear-void.pw.toml"
+hash = "fd1923a8b5908be4d6dc5eda6d46e92b5c251f0f98990881c50cde243d33db49"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -63,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "bde223e6112180c23f9dec1c9a8d3cda74868b7d739ddf3436933502edb4c05a"
-metafile = true
-
-[[files]]
-file = "mods/create-contraption-creatures.pw.toml"
-hash = "c8160de018f0e5866c6888a8e7d08acd9f19ef3e7aec56c76596207aa6c88033"
 metafile = true
 
 [[files]]
@@ -236,8 +241,18 @@ hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
 metafile = true
 
 [[files]]
+file = "mods/fast-portals.pw.toml"
+hash = "63f77062179fa386f83ef014b31d503f24f541313bc6be036c9f9f22c503b254"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
 
 [[files]]
@@ -248,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "ca24bfcd5025839184bf79d63151d9cdafd5c4668a2c6fa3c034fca488e9bb7e"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "a9d477bfc9d01ad6974e16a88820fc6243973f8f0da7b3f53f1b2dc84ecfb8a7"
 metafile = true
 
 [[files]]
@@ -286,6 +306,16 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "805b59661fa782ed6bc18fda1c6b42c85c0751caf15337993c154fd18fc4b222"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "78ae1714c3eb76e7696a37b25f375b65136b758c737bf4af0d6d4bc5e44e282f"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
 metafile = true
@@ -296,8 +326,18 @@ hash = "0e76e306423a6c04fc5496bc5321638be9b06149e9b4b9f267fad3fabca3bbae"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "993b15f46c5f6ae47fb6e3a3d18020a17a10d5963a2867de86475992aec2b5c5"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "eea1f83d9574eb2d94b90f6ad0cdcafed859f7355cb859cfbf33f9f477056736"
 metafile = true
 
 [[files]]
@@ -306,8 +346,23 @@ hash = "ad255087fcf470074a5e444d7294fbe083aef88ec57336d34abf9b7714d1eb1c"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "2b64b2a63c295cc3e7c91888d156b3f267e05cfddb86486eb171200c1bc2c1c5"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "c114cf3e528339675168be824fc56a8d79fc61772b66c33e6446c2b78b135571"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b5cff3ca9e8514494658b7d4f758be88566f8a6adc7f430e8a7bc64d635733de"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "656545c30334dd776f1fd31f3089f19b424a12e1618ec6a12c04bcb8af224e53"
 metafile = true
 
 [[files]]
@@ -323,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "389c2886169e746c9465c204d360276ee4a5651939e2028816d2f4ca484b9702"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
 metafile = true
 
 [[files]]
@@ -343,6 +403,31 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "df33cf433b05d1a409bb912befd8f19f220e33d80fa9c5eda66ded335f625717"
+metafile = true
+
+[[files]]
+file = "mods/vanillaskyvillages.pw.toml"
+hash = "bc8915e764d4f76ea60773975b3d2d22857f39b4508f615e3ccd856884eb53b6"
+metafile = true
+
+[[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "9630ec247ab11b0b5aa97de51e1fe7110bd9dd357ef9c597d0a88408866aae81"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "68fd939911d8be91a3d276485e52872a22dec1d3a57d83f903527bce38bba946"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "312852f091ce9b76fed7ec9d55dbff8b692cceac8a4d0c907cf12d9d7769487f"
 metafile = true
 
 [[files]]
