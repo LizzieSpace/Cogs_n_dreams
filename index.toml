@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "f6d6aede15dae8493cd4a366c36c52b3066cd0248b8234116b60f30be4e9546b"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "e8439b94298b1f4685dec557a8009fb085b508c3a6d0dc179603095be392b680"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -76,11 +86,6 @@ hash = "5a6081e7d74cca40fbac91b83e74161c184e9053bbb65e5e500c2293b49a74c2"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "4fdeda928e3bd63e9796d5cf36d122c2f3f6a89a1ec373abd1c116cce34dcd9e"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "e91e757dd3f560c4bc884361d4436168cbe512b78e7b1d3bdf3294f8e5bc0d14"
 metafile = true
@@ -111,6 +116,11 @@ hash = "acba8435d3075b06c631ed8a121a4f5a47f64ae18559bdcf9cf637df3d0bab41"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
 metafile = true
@@ -131,6 +141,11 @@ hash = "d7650fa1a4c14276d76f0767d8825444a176349ac3ae2ae0e0ce96faf9e447ff"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f8a4d471df41f633cdf26f291cf0627e6b661026bc488093ffe1d515d8494202"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "b05a44214d33335d91a8c71349c8589175dae4d506539e142cc710395ba87b5f"
 metafile = true
@@ -143,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
@@ -161,8 +181,38 @@ hash = "3318e7443f25be978dfdcba2d6b39a63b44b3487cd4f064d7750baa12fde5676"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "65af8adf11070a823ab36edde42d4d9f9069061b51275da17cc0bc7b721d5a81"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "0e76e306423a6c04fc5496bc5321638be9b06149e9b4b9f267fad3fabca3bbae"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
@@ -183,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "501935c3bb6ef85b78bdba31dcc4fc55546da0b62ae06c50c8f47e6afb1caf79"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
 metafile = true
 
 [[files]]
