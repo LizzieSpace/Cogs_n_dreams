@@ -1,7 +1,6 @@
 name = "Fast Portals"
 filename = "fast-portals-1.0.3.jar"
-side = "server"
-
+side = "both"   # "server"
 [download]
 url = "https://cdn.modrinth.com/data/HTSaaFuA/versions/Jh5CZdp3/fast-portals-1.0.3.jar"
 hash-format = "sha512"
