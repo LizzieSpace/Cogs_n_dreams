@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "6ec1787d0fc9247eefa406a8b60688de61a00e8369affd80204e9eb26b190202"
+hash = "61fe0368e62d8926d1c7429532f74d22afc3e7044bee9385452095bd492976ef"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "f39db66d66abb140eb3a1b0c503455173948c5f5561033d08d85e6804945f6f6"
+hash = "9a5e313e9b29d73600b35e82230373e201c73f74736b7c634b6052df9f500c10"
 metafile = true
 
 [[files]]
