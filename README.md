@@ -12,3 +12,7 @@ allows for an infinite energy exploit. (I probably should use C&A for nw)
 * re-add original brass recipe
 * alter computercraft recipes to fit create
 * alter Tom's simple storage recipes to fit create
+
+* fork [aerolith](https://github.com/ly-nxs/aerolith) and bake the clear-void mod into it
+* add [fabric-seasons](https://modrinth.com/mod/fabric-seasons) and configs for modded crops
+  * perhaps add immersive snow along with it?
