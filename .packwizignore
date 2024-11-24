@@ -4,7 +4,7 @@ packwiz.exe
 README.md
 *.iml
 /.git/
-
+.gitattributes
 
 
 
